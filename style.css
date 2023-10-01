@@ -1,0 +1,70 @@
+header {
+  width: 80%;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-text {
+  margin-left: 0.8rem;
+}
+
+.logo-items {
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+
+.logo-items img {
+  width: auto;
+  height: 100%;
+}
+
+.icons-media > img:nth-child(6) {
+  margin-right: 1.7rem;
+}
+
+p {
+  text-indent: 25px;
+  margin-bottom: 2rem;
+  color: grey;
+  font-size: 1.2rem;
+}
+
+h4 {
+  margin: 0rem;
+}
+
+h1 {
+  font-family: "Yellowtail", cursive;
+  font-size: 2.5rem;
+}
+h4 {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 2.6rem;
+  margin: 4rem 0 0;
+}
+
+.chocolate {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: grey;
+  margin-bottom: 2rem;
+}
+
+.section-img {
+  width: 100%;
+  height: auto;
+}
